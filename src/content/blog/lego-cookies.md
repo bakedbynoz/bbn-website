@@ -2,8 +2,7 @@
 title: 'Custom Lego Cookies'
 description: 'Handcrafted Lego-themed sugar cookies for birthday celebrations.'
 pubDate: 'Jul 23 2026'
-heroImage: '/lego-cookies1.jpg'
----
+heroImage: '/lego-cookies.jpeg'---
 
 Welcome to our custom Lego cookie set! 
 

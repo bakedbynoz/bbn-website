@@ -5,15 +5,16 @@
  */
 
 :root {
-  /* Warm cream background & soft dark text */
-  --accent: #d4a373;         /* Warm caramel / cookie accent */
-  --accent-dark: #a9714b;    /* Deeper brown for hover states */
+  /* Warm cream & lavender bakery palette */
+  --accent: #b39ddb;         /* Soft lavender accent */
+  --accent-dark: #826a9f;    /* Deeper lavender/purple for hover states */
   --black: #3a2e2b;          /* Soft dark cocoa for text */
   --gray-dark: #5c4d47;
   --gray: #8d7a71;
-  --gray-light: #f7ede2;     /* Warm icing cream background */
-  --gray-gradient: rgba(247, 237, 226, 50%), #fff;
+  --gray-light: #f3e5f5;     /* Very light lavender-tinted cream background */
+  --gray-gradient: rgba(243, 229, 245, 50%), #fff;
   --box-shadow: 0 2px 6px rgba(58, 46, 43, 8%), 0 8px 24px rgba(58, 46, 43, 6%);
+}
 }
 @font-face {
 	font-family: "Atkinson";

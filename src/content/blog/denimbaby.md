@@ -1,7 +1,8 @@
 ---
 title: 'Denim Baby Shower Cookies'
-
-heroImage: '/denimbaby.jpg'
+description: 'Textured light blue and white custom sugar cookies for a denim-themed baby shower.'
+pubDate: 'July 24 2026'
+heroImage: '/denimbaby.jpeg'
 ---
 
 A soft and stylish custom set created for a denim-themed baby shower! 

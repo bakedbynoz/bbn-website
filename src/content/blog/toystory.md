@@ -1,7 +1,8 @@
 ---
-title: 'Toy Story Cookies'
-description: 'Fun and colorful Toy Story themed custom sugar cookies.'
-heroImage: '/toystory.jpg'
+title: 'Toy Story Custom Cookies'
+description: 'Fun Woody, Buzz Lightyear, and Alien themed custom sugar cookies.'
+pubDate: '2026-07-24'
+heroImage: '/toystory.jpeg'
 ---
 
 Custom Toy Story cookies perfect for birthday parties and Toy Story fans! 

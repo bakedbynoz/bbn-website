@@ -7,4 +7,4 @@ heroImage: '/lego-cookies.jpeg'
 
 ## Place an Order
 
-To inquire about custom cookie sets or check availability you can either email me at bakedbynoz@gmail.com or send a direct message on [Instagram (@bakedbynoz)](https://www.instagram.com/bakedbynoz)!
+To inquire about custom cookie sets or check availability you can either email me at bakedbynoz@gmail.com or send a direct message on [Instagram (@bakedbynoz)](https://www.instagram.com/bakedbynoz/)!

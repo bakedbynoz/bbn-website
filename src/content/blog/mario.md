@@ -1,9 +1,9 @@
 ---
-title: 'Super Mario Cookies'
-description: 'super mario and friends'
-heroImage: 'mario.jpg'
+title: 'Custom Super Mario Cookies'
+description: 'Hand-decorated Super Mario themed sugar cookies.'
+pubDate: 'Jul 24 2026'
+heroImage: '/mario.jpeg'
 ---
-
 Welcome to our super mario cookie set!
 
 ## Place an Order

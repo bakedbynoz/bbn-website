@@ -5,16 +5,15 @@
  */
 
 :root {
-	--accent: #2337ff;
-	--accent-dark: #000d8a;
-	--black: 15, 18, 25;
-	--gray: 96, 115, 159;
-	--gray-light: 229, 233, 240;
-	--gray-dark: 34, 41, 57;
-	--gray-gradient: rgba(var(--gray-light), 50%), #fff;
-	--box-shadow:
-		0 2px 6px rgba(var(--gray), 25%), 0 8px 24px rgba(var(--gray), 33%),
-		0 16px 32px rgba(var(--gray), 33%);
+  /* Warm cream background & soft dark text */
+  --accent: #d4a373;         /* Warm caramel / cookie accent */
+  --accent-dark: #a9714b;    /* Deeper brown for hover states */
+  --black: #3a2e2b;          /* Soft dark cocoa for text */
+  --gray-dark: #5c4d47;
+  --gray: #8d7a71;
+  --gray-light: #f7ede2;     /* Warm icing cream background */
+  --gray-gradient: rgba(247, 237, 226, 50%), #fff;
+  --box-shadow: 0 2px 6px rgba(58, 46, 43, 8%), 0 8px 24px rgba(58, 46, 43, 6%);
 }
 @font-face {
 	font-family: "Atkinson";

@@ -10,4 +10,4 @@ Welcome to our custom Lego cookie set!
 Every cookie is hand decorated to match classic Lego bricks and minifigures. Perfect for Lego-themed birthday parties and celebrations.
 
 ### Place an Order
-To inquire about custom cookie sets or check availability, send us a direct message on [Instagram](https://www.instagram.com/bakedbynoz)!
+To inquire about custom cookie sets or check availability you can either send me a direct message on [Instagram](https://www.instagram.com/bakedbynoz)! or email me at bakedbynoz@gmail.com

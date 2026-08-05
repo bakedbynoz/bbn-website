@@ -4,7 +4,6 @@ description: 'Hand-decorated Super Mario themed sugar cookies.'
 pubDate: 'Jul 24 2026'
 heroImage: '/mario.jpeg'
 ---
-Welcome to our super mario cookie set!
 
 ## Place an Order
  

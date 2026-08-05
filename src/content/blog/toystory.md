@@ -1,7 +1,6 @@
 ---
 title: 'Toy Story Cookies'
 description: 'Custom Toy Story-themed sugar cookies.'
-pubDate: '2026-07-24'
 heroImage: '/toystory.jpeg'
 ---
 

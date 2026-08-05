@@ -1,7 +1,6 @@
 ---
 title: 'Lego Cookies'
 description: 'Custom Lego-themed sugar cookies.'
-pubDate: '2026-07-24'
 heroImage: '/lego-cookies.jpeg'
 ---
 

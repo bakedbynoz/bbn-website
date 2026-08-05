@@ -1,6 +1,5 @@
 ---
-title: 'First Sonny'
-pubDate: 2026-08-05
+title: 'First Birthday'
 description: 'First Sonny cookies gallery entry'
 heroImage: '/first%20sonny.jpeg'
 ---

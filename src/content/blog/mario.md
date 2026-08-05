@@ -1,7 +1,6 @@
 ---
 title: 'Custom Super Mario Cookies'
 description: 'Hand-decorated Super Mario themed sugar cookies.'
-pubDate: 'Jul 24 2026'
 heroImage: '/mario.jpeg'
 ---
 
